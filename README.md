@@ -17,6 +17,7 @@ day 1 02-05-2023 - 14 programs
 12.travel
 13.diabetes
 14.range
+15.array 
 
 day 2 06-05-2023 - 14 programs
 
