@@ -1,7 +1,7 @@
 # DWDM-CSA1686
 SLOT B DATAWAREHOUSE AND DATA MINING 
 
-day 1 02-05-2023 - 13 programs
+day 1 02-05-2023 - 14 programs
 
 1.plot
 2.scatterplot
@@ -16,8 +16,9 @@ day 1 02-05-2023 - 13 programs
 11.fibo
 12.travel
 13.diabetes
+14.range
 
-day 2 06-05-2023 - 13 programs
+day 2 06-05-2023 - 14 programs
 
 1.median
 2.mode
