@@ -19,7 +19,7 @@ day 1 02-05-2023 - 14 programs
 14.range
 15.array 
 
-day 2 06-05-2023 - 14 programs
+day 2 06-05-2023 - 15 programs
 
 1.median
 2.mode
@@ -33,6 +33,12 @@ day 2 06-05-2023 - 14 programs
 10.odd or even
 11.square root
 12.pie 3D
+13.normal distribution 
+14.decision tree
+15.k means
+
+
+
 13.quantile
 14.subraction
 
