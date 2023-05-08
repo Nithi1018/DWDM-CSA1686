@@ -1,7 +1,7 @@
 # DWDM-CSA1686
 SLOT B DATAWAREHOUSE AND DATA MINING 
 
-day 1 02-05-2023 - 14 programs
+day 1 02-05-2023 - 15 programs
 
 1.plot
 2.scatterplot
