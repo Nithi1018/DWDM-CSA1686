@@ -1,0 +1,20 @@
+data<-c(200,300,400,600,1000)
+data
+
+min1<-0
+max1<-1
+
+ #a
+norm<-(data-min(data)/max(data)-min(data))*(max1-min1)+min1
+norm
+
+#b z score
+
+z<-(data-mean(data))/sd(data)
+z
+
+
+
+
+
+
