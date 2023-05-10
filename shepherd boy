@@ -1,0 +1,5 @@
+cries<-random(1:10,1)
+eaten<-sample(1:20,1)
+
+cat("The boy cried wolf", cries, "times before the villagers stopped believing him.\n")
+cat("The wolf ate", eaten, "sheep from the flock.\n")
